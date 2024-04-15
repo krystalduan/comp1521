@@ -1,1 +1,1 @@
-COMP2521 - Data Structures and Algorithms
+UNSW COMP1521 - OPERATING SYSTEMS
